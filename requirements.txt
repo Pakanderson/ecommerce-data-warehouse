@@ -1,0 +1,4 @@
+pandas>=2.0
+SQLAlchemy>=2.0
+streamlit>=1.50
+pytest>=7.4
